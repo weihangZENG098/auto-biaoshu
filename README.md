@@ -11,7 +11,7 @@
 
 ## 使用方式
 
-将 SKILL.md 导入 WorkBuddy 的用户级 Skill（~/.workbuddy/skills/），即可在投标任务中自动调用该工作流。
+将 SKILL.md 导入 WorkBuddy/Claude code等的用户级 Skill（~/.workbuddy/skills/），即可在投标任务中自动调用该工作流。
 
 ## 适用场景
 
